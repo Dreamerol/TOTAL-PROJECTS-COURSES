@@ -76,10 +76,6 @@
 ---
 
 
-
-## 🟢 PROJECT CARDS
-
-
 <div align="center">
 
 ## 🟢 PROJECT CARDS
