@@ -1,6 +1,6 @@
 <div align="center">
 
-# TOTAL-PROJECTS-COURSES
+# TOTAL GITHUB PROJECTS COURSES
 
 </div>
 
