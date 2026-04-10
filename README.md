@@ -42,24 +42,25 @@
 ## 🟢 PROJECT DASHBOARD
 
 <table>
+
   <tr>
     <td align="center">
       <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-        <img src="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/0f0c29/ffffff?text=Physics+Simulation" width="220"/><br>
         <b>Physics Simulation</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-        <img src="https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/302b63/ffffff?text=Neural+Networks" width="220"/><br>
         <b>Neural Networks</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-        <img src="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/1f6feb/ffffff?text=Backend+Systems" width="220"/><br>
         <b>Backend Systems</b>
       </a>
     </td>
@@ -68,21 +69,21 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-        <img src="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/00c853/ffffff?text=Algorithms" width="220"/><br>
         <b>Algorithms</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/DATABASES-SQL">
-        <img src="https://github.com/Dreamerol/DATABASES-SQL/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/336791/ffffff?text=Databases" width="220"/><br>
         <b>Databases</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-        <img src="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/fcc624/000000?text=Linux+Toolkit" width="220"/><br>
         <b>Linux Toolkit</b>
       </a>
     </td>
@@ -91,30 +92,29 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-        <img src="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/ff69b4/ffffff?text=Math+Engine" width="220"/><br>
         <b>Math Engine</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-        <img src="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/8a2be2/ffffff?text=Game+Logic" width="220"/><br>
         <b>Game Logic</b>
       </a>
     </td>
 
     <td align="center">
       <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-        <img src="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS/blob/main/preview.png?raw=true" width="220"/><br>
+        <img src="https://via.placeholder.com/220x140/ff4081/ffffff?text=ML+Analysis" width="220"/><br>
         <b>ML Analysis</b>
       </a>
     </td>
   </tr>
+
 </table>
 
 </div>
-
-
 
 ---
 
