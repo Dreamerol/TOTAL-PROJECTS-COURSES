@@ -67,6 +67,45 @@
 
 ---
 
+
+<div align="center">
+
+## 🟢 PROJECT CARDS
+
+</div>
+
+
+<p align="center">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <img src="https://img.shields.io/badge/Physics%20Simulation%20Systems-000000?style=for-the-badge&logo=atom&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img src="https://img.shields.io/badge/Web%20Systems-1F6FEB?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img src="https://img.shields.io/badge/Linux%20Toolkit-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+</p>
+
+
+
+---
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
