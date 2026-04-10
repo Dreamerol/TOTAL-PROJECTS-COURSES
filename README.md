@@ -70,7 +70,7 @@
 
 <div align="center">
 
-## 🟢 PROJECT CARDS
+# 🟢 PROJECT CARDS
 
 </div>
 
