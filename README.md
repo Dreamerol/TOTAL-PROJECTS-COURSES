@@ -146,32 +146,49 @@
 
 
 
-- ⚙️ **[PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)**  
-- 🤖 **[NEURAL-NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS)**  
-- ☕ **[JAVA-CLOJURE-API-SYSTEM](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM)**  
-- 📚 **[BOOK-CATALOG-APP-DJANGO](https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO)**  
-- 🐧 **[LINUX-PRO-TOOLKIT](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT)**  
-- 📈 **[PROFIT-PREDICTOR-ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML)**  
-- 🌐 **[PYTHON-WEB-ADVANCED](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED)**  
-- 🔢 **[POLYNOMIAL-CALCULATOR-ALGORITHMS](https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS)**  
-- 📊 **[PLACEBO-EFFECT-ML-DATA-ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS)**  
-- ⚙️ **[MODERN-C-CPP-CODE](https://github.com/Dreamerol/MODERN-CPP-CODE)**  
-- 🧩 **[OBJECT-ORIENTED-PROGRAMMING](https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING)**  
-- 📦 **[DELIVERY-DATA-SQL-SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM)**  
-- 🏗️ **[OOP-PRINCIPLES-DESIGN](https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN)**  
-- 🤖 **[DISCRETE-MATH-AUTOMATA-CONVERTER](https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER)**  
-- 🎓 **[MOODLE-SYSTEM-EDUCATIONAL-PLATFORM](https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM)**  
-- 🧮 **[JAVA-GUI-CALCULATOR-MATH-OPERATIONS](https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS)**  
-- 🎮 **[RUMMIKUB-CONSOLE-GAME](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME)**  
-- 🃏 **[POCKER-CONSOLE-GAME](https://github.com/Dreamerol/POCKER-CONSOLE-GAME)**  
-- 🗄️ **[DATABASES-SQL](https://github.com/Dreamerol/DATABASES-SQL)**  
-- 🔧 **[DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)**  
-- 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)**
-  
-</div>
+# 🔹 REPOSITORIES & TECH STACK
 
+- ⚙️ **[PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)** — Python • NumPy • SciPy • Matplotlib • Numerical Methods  
 
+- 🤖 **[NEURAL-NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS)** — Python • TensorFlow / PyTorch • Machine Learning  
 
+- ☕ **[JAVA-CLOJURE-API-SYSTEM](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM)** — Java • Clojure • Spring Boot • REST APIs  
+
+- 📚 **[BOOK-CATALOG-APP-DJANGO](https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO)** — Python • Django • PostgreSQL • HTML • CSS  
+
+- 🐧 **[LINUX-PRO-TOOLKIT](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT)** — Bash • Linux • Shell Scripting • CLI Tools  
+
+- 📈 **[PROFIT-PREDICTOR-ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML)** — Python • Scikit-learn • Pandas • ML Models  
+
+- 🌐 **[PYTHON-WEB-ADVANCED](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED)** — Python • Flask / Django • REST APIs  
+
+- 🔢 **[POLYNOMIAL-CALCULATOR-ALGORITHMS](https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS)** — C++ • Algorithms • Mathematics • OOP  
+
+- 📊 **[PLACEBO-EFFECT-ML-DATA-ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS)** — Python • Pandas • NumPy • Data Visualization  
+
+- ⚙️ **[MODERN-C-CPP-CODE](https://github.com/Dreamerol/MODERN-CPP-CODE)** — C++ • STL • Memory Management • Modern C++  
+
+- 🧩 **[OBJECT-ORIENTED-PROGRAMMING](https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING)** — C++ • OOP • Design Patterns  
+
+- 📦 **[DELIVERY-DATA-SQL-SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM)** — SQL • PostgreSQL • Database Design  
+
+- 🏗️ **[OOP-PRINCIPLES-DESIGN](https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN)** — C++ / Java • SOLID • Architecture  
+
+- 🤖 **[DISCRETE-MATH-AUTOMATA-CONVERTER](https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER)** — C++ • Automata Theory • Algorithms  
+
+- 🎓 **[MOODLE-SYSTEM-EDUCATIONAL-PLATFORM](https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM)** — C++ • OOP • System Design  
+
+- 🧮 **[JAVA-GUI-CALCULATOR-MATH-OPERATIONS](https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS)** — Java • Swing / JavaFX • GUI  
+
+- 🎮 **[RUMMIKUB-CONSOLE-GAME](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME)** — C++ • Game Logic • Console App  
+
+- 🃏 **[POCKER-CONSOLE-GAME](https://github.com/Dreamerol/POCKER-CONSOLE-GAME)** — C++ • Game Development • Algorithms  
+
+- 🗄️ **[DATABASES-SQL](https://github.com/Dreamerol/DATABASES-SQL)** — SQL • Joins • Queries  
+
+- 🔧 **[DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)** — C++ • Data Structures • Complexity  
+
+- 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)** — Python / C++ • Numerical Analysis • Computation  
 
 
 ---
