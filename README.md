@@ -10,7 +10,7 @@
 ---
 
 
-![my-banner](Banner-SMALL.png)
+![](https://github.com/Dreamerol/Dreamerol/blob/39ad43e55477184dfa59d6a595a572627d72b0cf/DATA.jpg)
 
 
 
