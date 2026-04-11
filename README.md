@@ -322,7 +322,6 @@
 </div>
 
 
-
 ---
 
 ## ⚡ ABOUT
@@ -335,7 +334,6 @@ Each project represents a step deeper into understanding how data transforms int
 
 Not just a collection of code, but a continuous engineering process turning ideas into working computational systems across multiple layers of modern software.
 
-
 ---
 
 ## 🔥 FOCUS AREAS
@@ -346,8 +344,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 ---
 
 <div align="center">
-
----
 
 ## ⚡ 𝗔𝗕𝗢𝗨𝗧
 
@@ -365,9 +361,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ⚙️ Systems Engineering • 🤖 AI/ML • 🧮 Algorithms • 🌐 Web Systems • 🗄️ Databases • 🎮 Simulation
 
----
-
-</div>
 
 ---
 
