@@ -189,69 +189,88 @@
 🔹 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦 & 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
 ⚙️ 𝗣𝗛𝗬𝗦𝗜𝗖𝗦-𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡-𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
+🔗 https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
 → Python • NumPy • SciPy • Matplotlib • Numerical Methods  
 
 🤖 𝗡𝗘𝗨𝗥𝗔𝗟-𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦  
+🔗 https://github.com/Dreamerol/NEURAL-NETWORKS  
 → Python • TensorFlow / PyTorch • Machine Learning  
 
 ☕ 𝗝𝗔𝗩𝗔-𝗖𝗟𝗢𝗝𝗨𝗥𝗘-𝗔𝗣𝗜-𝗦𝗬𝗦𝗧𝗘𝗠  
+🔗 https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM  
 → Java • Clojure • Spring Boot • REST APIs  
 
 📚 𝗕𝗢𝗢𝗞-𝗖𝗔𝗧𝗔𝗟𝗢𝗚-𝗔𝗣𝗣-𝗗𝗝𝗔𝗡𝗚𝗢  
+🔗 https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO  
 → Python • Django • PostgreSQL • HTML • CSS  
 
 🐧 𝗟𝗜𝗡𝗨𝗫-𝗣𝗥𝗢-𝗧𝗢𝗢𝗟𝗞𝗜𝗧  
+🔗 https://github.com/Dreamerol/LINUX-PRO-TOOLKIT  
 → Bash • Linux • Shell Scripting • CLI Tools  
 
 📈 𝗣𝗥𝗢𝗙𝗜𝗧-𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥-𝗠𝗟  
+🔗 https://github.com/Dreamerol/PROFIT-PREDICTOR-ML  
 → Python • Scikit-learn • Pandas • ML Models  
 
 🌐 𝗣𝗬𝗧𝗛𝗢𝗡-𝗪𝗘𝗕-𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗  
+🔗 https://github.com/Dreamerol/PYTHON-WEB-ADVANCED  
 → Python • Flask / Django • REST APIs  
 
 🔢 𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟-𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥-𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦  
+🔗 https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS  
 → C++ • Algorithms • Mathematics • OOP  
 
 📊 𝗣𝗟𝗔𝗖𝗘𝗕𝗢-𝗘𝗙𝗙𝗘𝗖𝗧-𝗠𝗟-𝗗𝗔𝗧𝗔-𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦  
+🔗 https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS  
 → Python • Pandas • NumPy • Data Visualization  
 
 ⚙️ 𝗠𝗢𝗗𝗘𝗥𝗡-𝗖-𝗖𝗣𝗣-𝗖𝗢𝗗𝗘  
+🔗 https://github.com/Dreamerol/MODERN-CPP-CODE  
 → C++ • STL • Memory Management • Modern C++  
 
 🧩 𝗢𝗕𝗝𝗘𝗖𝗧-𝗢𝗥𝗜𝗘𝗡𝗧𝗘𝗗-𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚  
+🔗 https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING  
 → C++ • OOP • Design Patterns  
 
 📦 𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬-𝗗𝗔𝗧𝗔-𝗦𝗤𝗟-𝗦𝗬𝗦𝗧𝗘𝗠  
+🔗 https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM  
 → SQL • PostgreSQL • Database Design  
 
 🏗️ 𝗢𝗢𝗣-𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦-𝗗𝗘𝗦𝗜𝗚𝗡  
+🔗 https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN  
 → C++ / Java • SOLID • Architecture  
 
 🤖 𝗗𝗜𝗦𝗖𝗥𝗘𝗧𝗘-𝗠𝗔𝗧𝗛-𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗔-𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗘𝗥  
+🔗 https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER  
 → C++ • Automata Theory • Algorithms  
 
 🎓 𝗠𝗢𝗢𝗗𝗟𝗘-𝗦𝗬𝗦𝗧𝗘𝗠-𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟-𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠  
+🔗 https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM  
 → C++ • OOP • System Design  
 
 🧮 𝗝𝗔𝗩𝗔-𝗚𝗨𝗜-𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥-𝗠𝗔𝗧𝗛-𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦  
+🔗 https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS  
 → Java • Swing / JavaFX • GUI  
 
 🎮 𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕-𝗖𝗢𝗡𝗦𝗢𝗟𝗘-𝗚𝗔𝗠𝗘  
+🔗 https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME  
 → C++ • Game Logic • Console App  
 
 🃏 𝗣𝗢𝗖𝗞𝗘𝗥-𝗖𝗢𝗡𝗦𝗢𝗟𝗘-𝗚𝗔𝗠𝗘  
+🔗 https://github.com/Dreamerol/POCKER-CONSOLE-GAME  
 → C++ • Game Development • Algorithms  
 
 🗄️ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦-𝗦𝗤𝗟  
+🔗 https://github.com/Dreamerol/DATABASES-SQL  
 → SQL • Joins • Queries  
 
 🔧 𝗗𝗔𝗧𝗔-𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦-𝗔𝗡𝗗-𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦  
+🔗 https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS  
 → C++ • Data Structures • Complexity  
 
 📐 𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟-𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦-𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦-𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗦  
+🔗 https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS  
 → Python / C++ • Numerical Analysis • Computation  
-
-
 
 ---
 
