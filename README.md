@@ -142,6 +142,100 @@
 </div>
 
 
+---
+
+---
+
+# 🔹 REPOSITORIES
+
+<p align="center">
+
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <img src="https://img.shields.io/badge/⚙️_PHYSICS--SIMULATION--SYSTEMS-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img src="https://img.shields.io/badge/🤖_NEURAL--NETWORKS-purple?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+  <img src="https://img.shields.io/badge/☕_JAVA--CLOJURE--API--SYSTEM-orange?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+  <img src="https://img.shields.io/badge/📚_BOOK--CATALOG--DJANGO-green?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img src="https://img.shields.io/badge/🐧_LINUX--PRO--TOOLKIT-black?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+  <img src="https://img.shields.io/badge/📈_PROFIT--PREDICTOR--ML-brightgreen?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img src="https://img.shields.io/badge/🌐_PYTHON--WEB--ADVANCED-blueviolet?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+  <img src="https://img.shields.io/badge/🔢_POLYNOMIAL--ALGORITHMS-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+  <img src="https://img.shields.io/badge/📊_PLACEBO--EFFECT--ML-yellow?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/MODERN-CPP-CODE">
+  <img src="https://img.shields.io/badge/⚙️_MODERN--C++--CODE-informational?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+  <img src="https://img.shields.io/badge/🧩_OOP--PROGRAMMING-red?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+  <img src="https://img.shields.io/badge/📦_SQL--DELIVERY--SYSTEM-lightgrey?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+  <img src="https://img.shields.io/badge/🏗️_OOP--DESIGN--PRINCIPLES-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
+  <img src="https://img.shields.io/badge/🤖_AUTOMATA--CONVERTER-darkgreen?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
+  <img src="https://img.shields.io/badge/🎓_MOODLE--SYSTEM-orange?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
+  <img src="https://img.shields.io/badge/🧮_JAVA--GUI--CALCULATOR-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+  <img src="https://img.shields.io/badge/🎮_RUMMIKUB--GAME-black?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+  <img src="https://img.shields.io/badge/🃏_POCKER--GAME-red?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img src="https://img.shields.io/badge/🗄️_DATABASES--SQL-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img src="https://img.shields.io/badge/🔧_DATA--STRUCTURES--ALGO-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img src="https://img.shields.io/badge/📐_NUMERICAL--ANALYSIS-grey?style=for-the-badge">
+</a>
+
+</p>
+
 
 
 
