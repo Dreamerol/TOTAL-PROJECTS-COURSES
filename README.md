@@ -9,8 +9,7 @@
 
 ---
 
-![](https://github.com/Dreamerol/Dreamerol/blob/6ed4afdff5c8df516f7f7b6b618a8c40dd4fefa2/DATA.jpg)
-
+![](https://github.com/Dreamerol/Dreamerol/blob/ba1b00a25b6abbebf94d307256720a6b0908b474/program22.jpg)
 
 
 ---
