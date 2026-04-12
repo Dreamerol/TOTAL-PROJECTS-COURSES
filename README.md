@@ -486,8 +486,6 @@ Not just a collection of code, but a continuous engineering process turning idea
   </a>
 </h3>
 
----
-
 
 
 
