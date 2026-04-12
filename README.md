@@ -44,8 +44,16 @@
 ---
 
 
-<p align="center">
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
+  </a>
+</h3>
 
+---
+
+
+<p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -69,11 +77,6 @@
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -111,14 +114,6 @@
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -138,7 +133,6 @@
 </p>
 
 </div>
-
 
 
 
@@ -404,9 +398,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 </div>
 
 
-
 <p align="center">
-
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -430,11 +422,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -472,14 +459,6 @@ Not just a collection of code, but a continuous engineering process turning idea
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -499,6 +478,19 @@ Not just a collection of code, but a continuous engineering process turning idea
 </p>
 
 </div>
+
+---
+
+
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
+  </a>
+</h3>
+
+---
+
+
 
 
 
