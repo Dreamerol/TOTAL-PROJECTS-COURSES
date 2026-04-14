@@ -3,7 +3,9 @@
 # 🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
 
 
-<h3 align="center"> <strong><em><h3 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Machine Learning & APIs | Python • Java • C++ • Clojure • SQL</em></strong> </h3></em></strong> </h3>
+<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
+
+<strong><em><h3 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h3></em></strong> 
 
 </div>
 
