@@ -359,6 +359,26 @@
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table align="center">
 
 <tr>
@@ -430,7 +450,7 @@
 
 <td align="center" width="25%">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://opengraph.githubassets.com/102/Dreamerol/DATABASES-SQL"> width="100%"><br>
+<img src="https://opengraph.githubassets.com/102/Dreamerol/DATABASES-SQL" width="100%"><br>
 <b>🗄️ SQL-DB</b>
 </a>
 </td>
