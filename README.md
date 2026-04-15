@@ -362,6 +362,93 @@
 <table align="center">
 <tr>
 
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" width="100%"><br>
+<b>⚙️ PHYSICS-SIM</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/NEURAL-NETWORKS" width="100%"><br>
+<b>🤖 NEURAL-NETS</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="100%"><br>
+<b>☕ JAVA-CLOJURE</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/BOOK-CATALOG-APP-DJANGO" width="100%"><br>
+<b>📚 BOOK-CATALOG</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/LINUX-PRO-TOOLKIT" width="100%"><br>
+<b>🐧 LINUX-TOOLKIT</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/PROFIT-PREDICTOR-ML" width="100%"><br>
+<b>📈 PROFIT-ML</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/PYTHON-WEB-ADVANCED" width="100%"><br>
+<b>🌐 PY-WEB</b>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" width="100%"><br>
+<b>🔢 POLYNOMIAL</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+
+---
+
+
+<table align="center">
+<tr>
+
 <td valign="top" width="25%" align="center">
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"><b>⚙️ PHYSICS-SIM</b></a><br><br>
