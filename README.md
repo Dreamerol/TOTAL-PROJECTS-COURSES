@@ -609,21 +609,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
-<div align="center">
-
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
-
-📞 +359 89 764 3552  
-✉️ michaelakoseva@gmail.com  
-
-🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> |
-🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
-
-</div>
-
-
-
 
 
 
