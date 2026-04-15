@@ -33,17 +33,17 @@
 
 <h4 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>👉 Click any badge to view its GitHub repository  CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</em></strong>
+    <strong><em>👉 CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</em></strong>
   </a>
 </h4>
 
 
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong>⭐ CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</strong>
-  </a>
-</h3>
 
+<h4 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>👉 Click any badge to view its GitHub repository  CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</em></strong>
+  </a>
+</h4>
 
 ---
 
