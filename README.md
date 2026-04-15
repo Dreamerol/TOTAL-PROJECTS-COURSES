@@ -512,12 +512,16 @@
 </a>
 </td>
 
+<tr>
+
 <td align="center" width="25%">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://opengraph.githubassets.com/4/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="100%"><br>
-<b>☕ JAVA-CLOJURE</b>
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<img src="https://opengraph.githubassets.com/5/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" width="100%"><br>
+<b>📐 NUMERICAL-ANALYSIS</b>
 </a>
 </td>
+
+</tr>
 
 <td align="center" width="25%">
 <!-- empty slot removed fix -->
