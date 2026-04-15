@@ -313,8 +313,8 @@
 <td valign="top" width="50%">
 
 ⚙️ 𝗣𝗛𝗬𝗦𝗜𝗖𝗦-𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡-𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
-🔗 https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
-→ Python • NumPy • SciPy • Matplotlib  
+🔗 https://github.com/Dreamerol/PHYSICS-SIMULATION-
+SYSTEMS→ Python • NumPy • SciPy • Matplotlib  
 
 🤖 𝗡𝗘𝗨𝗥𝗔𝗟-𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦  
 🔗 https://github.com/Dreamerol/NEURAL-NETWORKS  
