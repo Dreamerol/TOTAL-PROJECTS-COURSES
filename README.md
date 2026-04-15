@@ -524,10 +524,6 @@
 </tr>
 
 <td align="center" width="25%">
-<!-- empty slot removed fix -->
-</td>
-
-</tr>
 
 </table>
 
