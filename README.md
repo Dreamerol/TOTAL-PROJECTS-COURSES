@@ -308,6 +308,9 @@
 
 </div>
 
+
+
+
 <table align="center">
   
 <tr>
@@ -479,7 +482,119 @@
 
 
 
+---
 
+
+
+<h2 align="center">🌑 My Projects Portfolio</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PHYSICS-SIMULATION-SYSTEMS&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=NEURAL-NETWORKS&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=JAVA-CLOJURE-API-SYSTEM&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=BOOK-CATALOG-APP-DJANGO&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=LINUX-PRO-TOOLKIT&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PROFIT-PREDICTOR-ML&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PYTHON-WEB-ADVANCED&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=POLYNOMIAL-CALCULATOR-ALGORITHMS&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PLACEBO-EFFECT-ML-DATA-ANALYSIS&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DATABASES-SQL&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=OBJECT-ORIENTED-PROGRAMMING&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DELIVERY-DATA-SQL-SYSTEM&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=OOP-PRINCIPLES-DESIGN&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DISCRETE-MATH-AUTOMATA-CONVERTER&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=MOODLE-SYSTEM-EDUCATIONAL-PLATFORM&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=JAVA-GUI-CALCULATOR-MATH-OPERATIONS&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=RUMMIKUB-CONSOLE-GAME&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=POCKER-CONSOLE-GAME&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DATA-STRUCTURES-AND-ALGORITHMS&theme=tokyonight&hide_border=true" />
+</td>
+
+<td align="center" width="25%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+
+</table>
 
 
 
