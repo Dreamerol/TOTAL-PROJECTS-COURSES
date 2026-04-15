@@ -477,97 +477,12 @@
 </table>
 
 
-----
 
 
 
 
 
 
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-<img src="https://opengraph.githubassets.com/101/Dreamerol/NEURAL-NETWORKS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/BOOK-CATALOG-APP-DJANGO" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/LINUX-PRO-TOOLKIT" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/PROFIT-PREDICTOR-ML" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/PYTHON-WEB-ADVANCED" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://opengraph.githubassets.com/102/Dreamerol/DATABASES-SQL" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/OOP-PRINCIPLES-DESIGN" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-<img src="https://opengraph.githubassets.com/103/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/RUMMIKUB-CONSOLE-GAME" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/POCKER-CONSOLE-GAME" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS" width="45%">
-</a>
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-<img src="https://opengraph.githubassets.com/8/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" width="45%">
-</a>
-
-</div>
 
 
 
