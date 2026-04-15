@@ -298,109 +298,63 @@
 
 
 
+
+
+
+
 ---
+
+
 
 <table align="center">
 <tr>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="25%" align="center">
 
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">⚙️ <b>𝗣𝗛𝗬𝗦𝗜𝗖𝗦-𝗦𝗜𝗠</b></a><br>
-🔗 PHYSICS-SIM<br>
-→ Python • NumPy • SciPy<br><br>
-
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">🤖 <b>𝗡𝗘𝗨𝗥𝗔𝗟-𝗡𝗘𝗧𝗦</b></a><br>
-🔗 NEURAL-NETS<br>
-→ Python • TensorFlow / PyTorch<br><br>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">☕ <b>𝗝𝗔𝗩𝗔-𝗖𝗟𝗢𝗝𝗨𝗥𝗘</b></a><br>
-🔗 JAVA-CLOJURE<br>
-→ Java • Clojure<br><br>
-
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">📚 <b>𝗕𝗢𝗢𝗞-𝗖𝗔𝗧𝗔𝗟𝗢𝗚</b></a><br>
-🔗 BOOK-CATALOG<br>
-→ Django • PostgreSQL<br><br>
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">🐧 <b>𝗟𝗜𝗡𝗨𝗫-𝗧𝗢𝗢𝗟𝗞𝗜𝗧</b></a><br>
-🔗 LINUX-TOOLS<br>
-→ Bash • Linux<br><br>
-
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">📈 <b>𝗣𝗥𝗢𝗙𝗜𝗧-𝗠𝗟</b></a><br>
-🔗 PROFIT-ML<br>
-→ Python • Scikit-learn<br><br>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">🌐 <b>𝗣𝗬𝗧𝗛𝗢𝗡-𝗪𝗘𝗕</b></a><br>
-🔗 PYTHON-WEB<br>
-→ Flask / Django  
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"><b>⚙️ PHYSICS-SIM</b></a><br><br>
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a><br><br>
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM"><b>☕ JAVA-CLOJURE</b></a><br><br>
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO"><b>📚 BOOK-CATALOG</b></a><br><br>
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT"><b>🐧 LINUX-TOOLKIT</b></a><br><br>
 
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="25%" align="center">
 
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">🔢 <b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟</b></a><br>
-🔗 POLYNOMIAL<br>
-→ C++ • Algorithms<br><br>
-
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">📊 <b>𝗣𝗟𝗔𝗖𝗘𝗕𝗢-𝗠𝗟</b></a><br>
-🔗 PLACEBO-ML<br>
-→ Pandas • NumPy<br><br>
-
-<a href="https://github.com/Dreamerol/MODERN-CPP-CODE">⚙️ <b>𝗠𝗢𝗗𝗘𝗥𝗡-𝗖𝗣𝗣</b></a><br>
-🔗 MODERN-CPP<br>
-→ C++ • STL<br><br>
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">🗄️ <b>𝗦𝗤𝗟-𝗗𝗕</b></a><br>
-🔗 SQL-DB<br>
-→ SQL<br><br>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">🧩 <b>𝗢𝗢𝗣</b></a><br>
-🔗 OOP<br>
-→ C++ • Patterns<br><br>
-
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">📦 <b>𝗦𝗤𝗟-𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬</b></a><br>
-🔗 SQL-DELIVERY<br>
-→ PostgreSQL<br><br>
-
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">🏗️ <b>𝗢𝗢𝗣-𝗗𝗘𝗦𝗜𝗚𝗡</b></a><br>
-🔗 OOP-DESIGN<br>
-→ SOLID  
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML"><b>📈 PROFIT-ML</b></a><br><br>
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED"><b>🌐 PY-WEB</b></a><br><br>
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS"><b>🔢 POLYNOMIAL</b></a><br><br>
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a><br><br>
+<a href="https://github.com/Dreamerol/MODERN-CPP-CODE"><b>⚙️ MODERN-CPP</b></a><br><br>
 
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="25%" align="center">
 
-<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">🤖 <b>𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗔</b></a><br>
-🔗 AUTOMATA<br>
-→ C++ • Algorithms<br><br>
+<a href="https://github.com/Dreamerol/DATABASES-SQL"><b>🗄️ SQL-DB</b></a><br><br>
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING"><b>🧩 OOP</b></a><br><br>
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM"><b>📦 SQL-DELIVERY</b></a><br><br>
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN"><b>🏗️ OOP-DESIGN</b></a><br><br>
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER"><b>🤖 AUTOMATA</b></a><br><br>
 
-<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">🎓 <b>𝗠𝗢𝗢𝗗𝗟𝗘</b></a><br>
-🔗 MOODLE<br>
-→ C++ • Design<br><br>
+</td>
 
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">🧮 <b>𝗝𝗔𝗩𝗔-𝗚𝗨𝗜</b></a><br>
-🔗 JAVA-GUI<br>
-→ Java • GUI<br><br>
+<td valign="top" width="25%" align="center">
 
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">🎮 <b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b></a><br>
-🔗 RUMMIKUB<br>
-→ C++ • Game<br><br>
-
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">🃏 <b>𝗣𝗢𝗞𝗘𝗥</b></a><br>
-🔗 POKER<br>
-→ C++ • Logic<br><br>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">🔧 <b>𝗗𝗦𝗔</b></a><br>
-🔗 DSA<br>
-→ C++ • Structures<br><br>
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">📐 <b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟</b></a><br>
-🔗 NUMERICAL<br>
-→ Python / C++  
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM"><b>🎓 MOODLE</b></a><br><br>
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS"><b>🧮 JAVA-GUI</b></a><br><br>
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME"><b>🎮 RUMMIKUB</b></a><br><br>
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME"><b>🃏 POKER</b></a><br><br>
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS"><b>🔧 DSA</b></a><br><br>
 
 </td>
 
 </tr>
 </table>
+
+
+
+
 
 ---
 
