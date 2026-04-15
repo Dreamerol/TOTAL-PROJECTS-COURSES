@@ -486,116 +486,102 @@
 
 
 
-<h2 align="center">🌑 My Projects Portfolio</h2>
+
+<h2 align="center">🌑 Projects Portfolio</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true" />
+  <em style="color:#8b949e;">Clean selection of my work in software, AI, systems and algorithms</em>
 </p>
+
+<br>
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PHYSICS-SIMULATION-SYSTEMS&theme=tokyonight&hide_border=true" />
+<td align="center" width="25%" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<b>⚙️ Physics Simulation</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=NEURAL-NETWORKS&theme=tokyonight&hide_border=true" />
+<td align="center" width="25%" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<b>🤖 Neural Networks</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=JAVA-CLOJURE-API-SYSTEM&theme=tokyonight&hide_border=true" />
+<td align="center" width="25%" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>☕ Java + Clojure API</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=BOOK-CATALOG-APP-DJANGO&theme=tokyonight&hide_border=true" />
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=LINUX-PRO-TOOLKIT&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PROFIT-PREDICTOR-ML&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PYTHON-WEB-ADVANCED&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=POLYNOMIAL-CALCULATOR-ALGORITHMS&theme=tokyonight&hide_border=true" />
+<td align="center" width="25%" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<b>📚 Book Catalog</b>
+</a>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=PLACEBO-EFFECT-ML-DATA-ANALYSIS&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<b>🐧 Linux Toolkit</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DATABASES-SQL&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<b>📈 ML Predictor</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=OBJECT-ORIENTED-PROGRAMMING&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<b>🌐 Python Web</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DELIVERY-DATA-SQL-SYSTEM&theme=tokyonight&hide_border=true" />
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=OOP-PRINCIPLES-DESIGN&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DISCRETE-MATH-AUTOMATA-CONVERTER&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=MOODLE-SYSTEM-EDUCATIONAL-PLATFORM&theme=tokyonight&hide_border=true" />
-</td>
-
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=JAVA-GUI-CALCULATOR-MATH-OPERATIONS&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<b>🔢 Algorithms</b>
+</a>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=RUMMIKUB-CONSOLE-GAME&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>🗄️ SQL Systems</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=POCKER-CONSOLE-GAME&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<b>🧩 OOP Concepts</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=DATA-STRUCTURES-AND-ALGORITHMS&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<b>🔧 DSA</b>
+</a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreamerol&repo=NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS&theme=tokyonight&hide_border=true" />
+<td align="center" style="background:#0d1117; padding:12px; border-radius:12px;">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<b>📐 Numerical Analysis</b>
+</a>
 </td>
 
 </tr>
 
 </table>
-
 
 
 
