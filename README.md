@@ -370,13 +370,7 @@
 </a>
 </td>
 
-<td align="center" width="25%">
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/NEURAL-NETWORKS" width="100%"><br>
-<b>🤖 NEURAL-NETS</b>
-</a>
-</td>
-
+<img src="https://opengraph.githubassets.com/101/Dreamerol/NEURAL-NETWORKS">
 <td align="center" width="25%">
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
 <img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="100%"><br>
@@ -436,10 +430,12 @@
 
 <td align="center" width="25%">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/DATABASES-SQL" width="100%"><br>
+<img src="https://opengraph.githubassets.com/102/Dreamerol/DATABASES-SQL"> width="100%"><br>
 <b>🗄️ SQL-DB</b>
 </a>
 </td>
+
+
 
 <td align="center" width="25%">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
