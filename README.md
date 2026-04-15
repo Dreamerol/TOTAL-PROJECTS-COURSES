@@ -407,20 +407,6 @@
 
 ---
 
-## ⭐ Featured Alignment Row (added balance projects)
-
-<p align="center">
-
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a> •
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML"><b>📈 PROFIT-ML</b></a> •
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a>
-
-</p>
-
-
-
----
-
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
