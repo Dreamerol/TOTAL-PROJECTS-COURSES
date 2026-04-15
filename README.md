@@ -358,6 +358,55 @@
 
 ---
 
+
+<table align="center">
+<tr>
+
+<td valign="top" width="25%" align="center">
+
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"><b>⚙️ PHYSICS-SIM</b></a><br><br>
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a><br><br>
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM"><b>☕ JAVA-CLOJURE</b></a><br><br>
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO"><b>📚 BOOK-CATALOG</b></a><br><br>
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML"><b>📈 PROFIT-ML</b></a><br><br>
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED"><b>🌐 PY-WEB</b></a><br><br>
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS"><b>🔢 POLYNOMIAL</b></a><br><br>
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a><br><br>
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT"><b>🐧 LINUX-TOOLKIT</b></a><br><br>
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL"><b>🗄️ SQL-DB</b></a><br><br>
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING"><b>🧩 OOP</b></a><br><br>
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM"><b>📦 SQL-DELIVERY</b></a><br><br>
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN"><b>🏗️ OOP-DESIGN</b></a><br><br>
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER"><b>🤖 AUTOMATA</b></a><br><br>
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM"><b>🎓 MOODLE</b></a><br><br>
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS"><b>🧮 JAVA-GUI</b></a><br><br>
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME"><b>🎮 RUMMIKUB</b></a><br><br>
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME"><b>🃏 POKER</b></a><br><br>
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS"><b>🔧 DSA</b></a><br><br>
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
 ## ⭐ Featured Alignment Row (added balance projects)
 
 <p align="center">
