@@ -484,20 +484,6 @@
 
 
 
-<td align="center" width="25%" style="background:#1E90FF; padding:10px; border-radius:12px;">
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-    <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" width="100%" style="border-radius:10px;"><br>
-    <b>⚙️ PHYSICS-SIM</b>
-  </a>
-</td>
-
-
-<img src="..." width="100%" style="border:2px solid #1E90FF; border-radius:10px;">
-
-
-
-<img src="..." width="100%" style="border-radius:10px; transition:0.3s;">
-
 
 -----
 
