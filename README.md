@@ -308,7 +308,7 @@
 ## ✨ <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> ✨
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/GITHUB.jpg"
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
        alt="Portfolio Cards"
        width="600"/>
 </a>
