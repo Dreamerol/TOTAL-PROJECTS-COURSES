@@ -299,7 +299,6 @@
 
 
 
-
 ---
 
 
@@ -308,26 +307,11 @@
 ## ✨ <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> ✨
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-       alt="Portfolio Cards"
-       width="600"/>
-</a>
 
-</div>
-
-
----
-
-
-<div align="center">
-
-## ✨ <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> ✨
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-  <img
-    src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-       alt="Portfolio Cards"
-       width="810"/>
+ <img
+  src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+  alt="Portfolio Cards"
+  width="729"/>
 </a>
 
 </div>
