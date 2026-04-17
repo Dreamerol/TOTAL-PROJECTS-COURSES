@@ -54,10 +54,6 @@
 ✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
 </h3>
 
-<h2 align="center">
-Data Analyst • Software Engineer • Applied Machine Learning
-</h2>
-
 <h3 align="center" style="font-size:20px;">
 Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
 </h3>
