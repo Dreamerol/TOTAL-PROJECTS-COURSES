@@ -350,6 +350,8 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 ---
 
 
+<h2 align="center"><strong>MIHAELA KOSEVA</strong></h2>
+
 <div align="center">
 
 <h2 align="center">
