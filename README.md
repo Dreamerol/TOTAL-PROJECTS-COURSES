@@ -354,15 +354,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <h2 align="center"><strong>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ FMI</strong></h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal; letter-spacing:1px;">
-𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
+𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 </h2>
 
 <br>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-I build systems where data becomes structure, and structure becomes insight.
+Build systems where data becomes structure, and structure becomes insight.
 </h2>
-
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
 Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
 Focused on turning theory into working, scalable systems.
@@ -379,6 +378,7 @@ Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine L
 <h2 align="center" style="font-size:18px; font-weight:normal;">
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h2>
+
 
 
 ---
