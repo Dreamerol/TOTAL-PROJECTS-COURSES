@@ -62,7 +62,7 @@ Python • SQL • Data Analysis • Machine Learning
 </h3>
 
 <h3 align="center">
-From raw data to actionable insights and scalable systems
+ ∫ data → systems ✨
 </h3>
 
 <br>
